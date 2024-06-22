@@ -1,0 +1,453 @@
+local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
+local window = DrRayLibrary:Load("Simple Hub", "Default")
+
+--tabs
+local Game = DrRayLibrary.newTab("Game Scripts", "no")
+local Fun = DrRayLibrary.newTab("Fun Stuff", "no")
+local UGC = DrRayLibrary.newTab("Instant UGC", "no")
+local Exec = DrRayLibrary.newTab("Executors", "no")
+local Special = DrRayLibrary.newTab("Special", "no")
+--[[
+if u are currently stealing my script,
+i cant do nothing just please dont do anything
+with this script do not take this as your own script
+i worked hard on this script hub and will be updating daily
+]]
+
+-- Game Scripts
+Game.newLabel("Below, all scripts are Operational and Safe")
+
+Game.newButton("Adopt Me", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/JulHubz/JulHub/main/JulHub"))()
+end)
+
+Game.newButton("BloxBurg", "Script is Working", function()
+    ScriptKey = "blockburgnew"
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/SurgeDid/Blockburg/main/loader.lua"))()
+end)
+
+Game.newButton("Tower Of Hell", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/scowscripts/scowsscripts/main/TowerOfHacks/Script", true))()
+end)
+
+Game.newButton("Blade Ball", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Orangecatgamer696969/Goose-hub-blade-ball/main/Script", true))()
+end)
+
+Game.newButton("Blox Fruits", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
+end)
+
+Game.newButton("The Strongest Battle Ground", "Script is Working", function()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/Lightux/main/README.md'),true))()
+end)
+
+Game.newButton("Slap Battles", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Aquoupi/DestroyerX/main/DestroyerX"))()
+end)
+
+Game.newButton("Arsenal", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/DatMxkey/Nexware/main/loader.lua"))()
+end)
+
+Game.newButton("Da Hood", "Script is Working", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002'))()
+end)
+
+Game.newButton("Demon Fall", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBHUBX/DemonFall/main/NOOB%20HUB.Lua"))()
+end)
+
+Game.newButton("King Legacy", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/Hyper/main/script.lua"))()
+end)
+
+Game.newButton("Ro Ghoul", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/JRL-lav/Main/main/Ro-Ghoul"))()
+end)
+
+Game.newButton("Funky Friday", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nadir3709/RandomScript/main/FunkyFridayMobile"))()
+end)
+
+Game.newButton("Pet Simulator 99", "Script is Working", function()
+    loadstring(game:HttpGet('https://zaphub.xyz/Exec'))()
+end)
+
+Game.newButton("Prison Life", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Denverrz/scripts/master/PRISONWARE_v1.3.txt"))()
+end)
+
+Game.newButton("My Retraunt 2", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/iz037/Zeld-Hub/main/Script/Restaurant%20Tycoon%202.lua"))()
+end)
+
+Game.newButton("BrookHaven", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/REDzHUB/main/REDzHUB"))()
+end)
+
+Game.newButton("War Tycoon", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Awakenchan/Misc-Release/main/WarTycoon"))()
+end)
+
+Game.newButton("Gun Grounds FFA", "Script is Working", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Jonthedruger/LatvixDoc/script/idkgamenameforgot.lua',true))()
+end)
+
+Game.newButton("Pull A Sword", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Pull%20a%20Sword.lua"))()
+end)
+
+Game.newButton("Hacker Tycoon", "Script is Working", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HackerTycoon'))()
+end)
+
+Game.newButton("Build A Boat For Treasure", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader"))()
+end)
+
+Game.newButton("Car Dealership Tycoon", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Marco8642/science/main/car%20dealer", true))()
+end)
+
+Game.newButton("Murder Vs Sheriff", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Deni210/murdersvssherrifsduels/main/rubyhub", true))()
+end)
+
+Game.newButton("A Dusty Trip", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ThacG/EruditeHubV2/main/adustytrip"))()
+end)
+
+Game.newButton("Ragdoll Engine", "Script is Working", function()
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/blackheartedcurse/punkz-Scripts/main/punkzOG.lua'))() 
+end)
+
+Game.newButton("Horror RNG", "Script is Working", function()
+    loadstring(game:HttpGet(('https://pastefy.app/UhaCeVUj/raw'),true))()
+end)
+
+Game.newButton("Magic RNG", "Script is Working", function()
+    loadstring(game:HttpGet(('https://pastefy.app/4BEvBW3k/raw'),true))()
+end)
+
+Game.newButton("Jujutsu Shenanigans", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/louismich4el/Zygarde/main/Protected%20zygarde.lua"))()
+end)
+
+Game.newButton("Anime Defenders", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/buang5516/buanghub/main/BUANGHUB.lua"))()
+end)
+
+Game.newButton("Gym League", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraScript/Script/main/GymLeague", true))()
+end)
+
+--Fun Stuff
+Fun.newLabel("Below, all scripts are Operational and Safe")
+
+-- Function to get the player's humanoid
+local function getHumanoid(player)
+    local character = player.Character or player.CharacterAdded:Wait()
+    return character:WaitForChild("Humanoid")
+end
+
+-- Get the player
+local player = game.Players.LocalPlayer
+local humanoid = getHumanoid(player)
+
+-- Minimum and maximum speed values
+local minSpeed = 16
+local maxSpeed = 100
+
+--Speed Slider
+Fun.newSlider("Speed Slider", "Adjust your speed", 100, false, function(num)
+    -- Normalize the slider value to a 0-1 range
+    local normalizedValue = num / 100
+    
+    local newSpeed = minSpeed + (normalizedValue * (maxSpeed - minSpeed))
+    
+    --Update Speed
+    humanoid.WalkSpeed = newSpeed
+    
+    -- Print the new speed (for debugging)
+    print("Humanoid's new speed:", newSpeed)
+end)
+
+--jump power slider
+-- Function to get the player's humanoid
+local function getHumanoid(player)
+    local character = player.Character or player.CharacterAdded:Wait()
+    return character:WaitForChild("Humanoid")
+end
+
+-- Get the player
+local player = game.Players.LocalPlayer
+local humanoid = getHumanoid(player)
+
+-- Minimum and maximum jump power values
+local minJumpPower = 50
+local maxJumpPower = 200
+
+-- Create the slider with the callback function
+Fun.newSlider("Jump Power Slider", "Adjust your jump power", 100, false, function(num)
+    -- Normalize the slider value to a 0-1 range
+    local normalizedValue = num / 100
+    
+    -- Calculate the new jump power
+    local newJumpPower = minJumpPower + (normalizedValue * (maxJumpPower - minJumpPower))
+    
+    -- Update the humanoid's JumpPower
+    humanoid.JumpPower = newJumpPower
+    
+    -- Print the new jump power (for debugging)
+    print("Humanoid's new jump power:", newJumpPower)
+end)
+
+--Gravity Slider
+-- Reference to the Workspace
+local workspace = game.Workspace
+
+-- Minimum and maximum gravity values (Roblox default is 196.2)
+local minGravity = 50
+local maxGravity = 500
+
+-- Create the slider with the callback function
+Fun.newSlider("Gravity Slider", "Adjust the gravity", 100, false, function(num)
+    -- Normalize the slider value to a 0-1 range
+    local normalizedValue = num / 100
+    
+    -- Calculate the new gravity
+    local newGravity = minGravity + (normalizedValue * (maxGravity - minGravity))
+    
+    -- Update the workspace's gravity
+    workspace.Gravity = newGravity
+    
+    -- Print the new gravity (for debugging)
+    print("New gravity:", newGravity)
+end)
+
+-- FOV
+
+-- Get the player and the camera
+local player = game.Players.LocalPlayer
+local camera = game.Workspace.CurrentCamera
+
+-- Define the normal and increased FOV values
+local normalFOV = 70
+local increasedFOV = 100
+
+-- Create the toggle with the callback function
+Fun.newToggle("FOV Toggle", "Increase FOV", true, function(toggleState)
+    if toggleState then
+        -- Set FOV to increased value
+        camera.FieldOfView = increasedFOV
+        print("FOV: Increased")
+    else
+        -- Set FOV to normal value
+        camera.FieldOfView = normalFOV
+        print("FOV: Normal")
+    end
+end)
+
+--Fun Stuff Scripts
+Fun.newButton("Flappy Bird", "Script is Working", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/rux7UL8L"))();
+end)
+
+Fun.newButton("Fling Script", "Works Only On R6", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe./main/Fling%20GUI"))()
+end)
+
+Fun.newButton("FE Invisible", "Script is Working", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/0Ben1/fe./dbb6ce6f6cee4f7a5c9e20d7b88e83db2a93bf25/Invisible%20GUI'))()
+end)
+
+Fun.newButton("FE Car", "Script is Working", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/MonkoTubeYT/carscript/master/!carscript.lua', true))()
+end)
+
+Fun.newButton("Mouse Cursor", "Script is Working", function()
+    loadstring(game:HttpGet(('https://pastefy.app/VPqgV9IN/raw'),true))()
+end)
+
+Fun.newButton("Mobile Key Strokes", "Script is Working", function()
+   loadstring(game:HttpGet(('https://pastefy.app/Te4dwSw2/raw'),true))()
+end)
+
+Fun.newButton("Shift Lock", "Script is Working", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/QuzRq57a"))()
+end)
+
+Fun.newButton("RTX", "Script is Working", function()
+    loadstring(game:HttpGet(('https://pastefy.app/xXkUxA0P/raw'),true))()
+end)
+
+Fun.newButton("Script Searcher", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/chillz-workshop/main/ScriptSearcher"))()
+end)
+
+Fun.newButton("FE Animation", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Animation-Hub/main/Animation%20Gui", true))()
+end)
+
+Fun.newButton("FE Emotes", "Script is Working", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/eCpipCTH"))()
+end)
+
+Fun.newButton("Time Stop", "Script is Working", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/djAd7g2W'))()
+end)
+
+Fun.newButton("Chat Bypass", "Script may only work on few games", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ChainGotStucked/a55af82d82574/main/REAL_MENACE"))()
+end)
+
+Fun.newButton("Auto Play Piano", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Madness676/3.2Lol/main/AutoPiano3-2.lua", true))()
+end)
+
+Fun.newButton("Speed O Sonic", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe/main/obf_11l7Y131YqJjZ31QmV5L8pI23V02b3191sEg26E75472Wl78Vi8870jRv5txZyL1.lua.txt"))()
+end)
+
+--Fun Script Admin
+Fun.newLabel("Admin Scripts")
+
+Fun.newButton("Infinite Yield", "Script is Working", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+
+Fun.newButton("Ro Chip Panel", "Script is Working", function()
+    g,ld,gl,Panel,Rochips_ = game,loadstring,"https://glot.io/snippets","a6c7y0","gvjv"
+    ld(g:HttpGet((''..gl..'/'..Rochips_..''..Panel.. '/raw/main.lua'), true))()
+end)
+
+Fun.newButton("Nameless Admin", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/FD2Team/Nameless-Admin-No-Byfron-Kick/main/Source",true))()
+end)
+
+--UGC
+UGC.newLabel("Get items instantly from OLD Events")
+
+UGC.newButton("Island Of Move", "Script is Working", function()
+    local Codes = {"WorldAlive","DIY","SettingTheStage","StrikeAPose","GetMoving","VictoryLap","ThingsGoBoom","FXArtist","Boardwalk","ParticleWizard","Glimmer"}
+for i = 1,#Codes do
+    game:GetService("ReplicatedStorage").Events.RedeemCode:FireServer(Codes[i])
+end
+end)
+
+UGC.newButton("Galactic Speedway Creator Challenge", "Script is Working", function()
+    local Codes = {"Lesson1","Lesson2","Lesson3","Lesson4","Lesson5","Lesson6"}
+for i = 1,#Codes do
+    game:GetService("ReplicatedStorage").Events.FinishQuiz:InvokeServer(Codes[i])
+end
+end)
+
+UGC.newButton("Godzilla Creator Challenge", "Script is Working", function()
+    local Codes = {"Lesson1","Lesson2","Lesson3"}
+for i = 1,#Codes do
+    game:GetService("ReplicatedStorage").Events.FinishQuiz:InvokeServer(Codes[i])
+end
+end)
+
+UGC.newButton("PC Creator Challenge", "Script is Working", function()
+    local Codes = {"Lesson1","Lesson2","Lesson3"}
+for i = 1,#Codes do
+    game:GetService("ReplicatedStorage").Events.FinishQuiz:InvokeServer(Codes[i])
+end
+end)
+
+UGC.newButton("Concave World", "Script is Working", function()
+    for i = 1, 150 do
+local args = {
+    [1] = 2,
+    [2] = {
+        [1] = 1,
+        [2] = 1,
+        [3] = 11
+    }
+}
+
+game:GetService("ReplicatedStorage").Project.RemoteEvent.ControlMessageEvent:FireServer(unpack(args))
+end
+end)
+
+UGC.newButton("Roliday Rumble", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraScript/Script/main/RolidayRumble", true))()
+end)
+
+UGC.newLabel("Other Instant UGC (Keeps updating if new instant UGC Scripts)")
+
+UGC.newButton("Waiting for UGC Scripts ", "Will be updated when a new instant ugc script is posted", function()
+    print("hi")
+end)
+
+-- Executors
+Exec.newButton("KRNL", "Script is Working", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/M3HjLPU7"))()
+end)
+
+Exec.newButton("Synapse X", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/Chillz-s-scripts/main/Synapse-X-Remake.lua"))()
+end)
+
+Exec.newButton("Arceus X", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/chillz-workshop/main/Arceus%20X%20V3"))()
+end)
+
+Exec.newButton("Trigon", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomUserRay/ExecuterSource/main/TrigonSource.lua"))()
+end)
+
+-- Actual Executors
+Exec.newLabel("Below, all Executors are Updated and working Click to copy download link")
+
+Exec.newButton("Arceus X Executor", "Executor is Updated And Working", function()
+    setclipboard("https://www.mediafire.com/file/nmllqyyhkdx77vv/Roblox_Arceus_X_NEO_1.3.4.apk/file")
+end)
+
+Exec.newButton("Fluxus Executor 32BIT", "Executor is Updated And Working", function()
+    setclipboard("https://modsfire.com/783kuX38u0zrZF7")
+end)
+
+Exec.newButton("Fluxus Executor 64BIT", "Executor is Updated And Working", function()
+    setclipboard("https://modsfire.com/KgcNdVbhsQCfXKo")
+end)
+
+Exec.newButton("Hydrogen Executor", "Executor is Updated And Working", function()
+    setclipboard("https://gofile.io/d/i4mt3N")
+end)
+
+Exec.newButton("Delta 2.0 Executor", "Executor is Updated And Working", function()
+    setclipboard("https://modsfire.com/kCrU57E9qM4Gkus")
+end)
+
+Exec.newButton("Cubix Executor", "Executor is Updated And Working", function()
+    setclipboard("https://modsfire.com/ZJu2k5Y5zstoDY0")
+end)
+
+Exec.newButton("Vega X Executor", "Executor is Updated And Working", function()
+    setclipboard("https://modsfire.com/avsWfho93cO5y32")
+end)
+
+--Special Feature
+Special.newLabel("Whenever one of these 3 ytbers upload a script on YouTube, the exact script will be here")
+Special.newLabel("This process will take 1min to post the script here. Will not work when im sleeping")
+-- Youtubers
+Special.newLabel("JN HH Gaming Section")
+
+Special.newButton("Waiting for JN To upload a script", "Waiting", function()
+    print("JN Hasn't Uploaded")
+end)
+
+Special.newLabel("Tora isme Section")
+
+Special.newButton("Waiting For Tora To upload a script", "Waiting", function()
+    print("Tora hasn't uploaded")
+end)
+
+Special.newLabel("Envixity Section")
+
+Special.newButton("Waiting For Exvixity To Upload A Script", "Waiting", function()
+    print("Envixity hasn't uploaded")
+end)
