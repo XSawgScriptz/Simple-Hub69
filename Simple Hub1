@@ -306,6 +306,14 @@ Fun.newButton("Auto Play Piano", "Script is Working", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Madness676/3.2Lol/main/AutoPiano3-2.lua", true))()
 end)
 
+Fun.newButton("FPS Counter", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Sempiller/sdluniversal/main/fpsviewer.lua"))()
+end)
+
+Fun.newButton("FPS Booster", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/FPSBooster.lua"))()
+end)
+
 Fun.newButton("Speed O Sonic", "Script is Working", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe/main/obf_11l7Y131YqJjZ31QmV5L8pI23V02b3191sEg26E75472Wl78Vi8870jRv5txZyL1.lua.txt"))()
 end)
