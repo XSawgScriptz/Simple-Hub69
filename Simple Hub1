@@ -17,6 +17,10 @@ i worked hard on this script hub and will be updating daily
 -- Game Scripts
 Game.newLabel("Below, all scripts are Operational and Safe")
 
+Game.newButton("Jail Break", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TempIsGay/Cashfarm/main/AutoCrateFree.lua"))()
+end)
+
 Game.newButton("Adopt Me", "Script is Working", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/JulHubz/JulHub/main/JulHub"))()
 end)
@@ -140,6 +144,10 @@ end)
 
 Game.newButton("Gym League", "Script is Working", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraScript/Script/main/GymLeague", true))()
+end)
+
+Game.newButton("AllBlox Battles", "Script is Working", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraScript/Script/main/AllbloxBattles", true))()
 end)
 
 --Fun Stuff
@@ -386,6 +394,10 @@ end)
 
 UGC.newLabel("Other Instant UGC (Keeps updating if new instant UGC Scripts)")
 
+UGC.newButton("Car Zone Beta", "Get Instant UGC", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraScript/Script/main/CarZoneBeta", true))()
+end)
+
 UGC.newButton("Waiting for UGC Scripts ", "Will be updated when a new instant ugc script is posted", function()
     print("hi")
 end)
@@ -449,6 +461,10 @@ Special.newButton("Waiting for JN To upload a script", "Waiting", function()
 end)
 
 Special.newLabel("Tora isme Section")
+
+Special.newButton("Car Zone Beta Instant UGC Script", "Tora Uploaded a script", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraScript/Script/main/CarZoneBeta", true))()
+end)
 
 Special.newButton("Waiting For Tora To upload a script", "Waiting", function()
     print("Tora hasn't uploaded")
